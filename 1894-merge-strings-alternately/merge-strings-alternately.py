@@ -7,7 +7,9 @@ class Solution:
             ans.append(word1[i])
             ans.append(word2[i])
             
-        ans.append(word1[min_length:])
-        ans.append(word2[min_length:])
+        if(len(word1) > min_length):
+            ans.append(word1[min_length:])
+        else:
+            ans.append(word2[min_length:])
         
         return "".join(ans)
