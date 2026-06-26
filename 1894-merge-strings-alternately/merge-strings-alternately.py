@@ -6,19 +6,11 @@ class Solution(object):
         :rtype: str
         """
         rtype = ""
-        maxlen = len(word1)
-        if(maxlen < len(word2)):
-            maxlen = len(word2)
-    
-        for i in range(maxlen):
-            if(len(word1) <= i):
-                rtype = rtype + word2[i]
-            
-            elif(len(word2) <= i):
+        i = 0
+        while(i < len(word1) or i < len(word2)):
+            if(i < len(word1)):
                 rtype = rtype + word1[i]
-            
-            else:
-                rtype = rtype + word1[i] + word2[i]
-
+            if(i < len(word2)):
+                rtype = rtype + word2[i]
+            i += 1
         return rtype
-        
