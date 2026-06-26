@@ -3,7 +3,6 @@ class Solution:
         n = len(nums)
         ans = [1]*n
         cur = 1
-
         for i in range(n):
             ans[i] = ans[i] * cur
             cur = cur * nums[i]
