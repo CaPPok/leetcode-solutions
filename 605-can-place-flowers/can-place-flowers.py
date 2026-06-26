@@ -1,8 +1,5 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
-        if (n == 0):
-            return True
-        
         m = len(flowerbed)
         for i in range(m):
             if (flowerbed[i] == 0):
