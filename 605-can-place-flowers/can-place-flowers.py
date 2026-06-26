@@ -12,8 +12,6 @@ class Solution:
                 
                 if left_empty and right_empty:
                     flowerbed[i] = 1 
-                    n -= 1           
-                    if n == 0:
-                        return True
+                    n -= 1         
         
-        return False
+        return n <= 0
