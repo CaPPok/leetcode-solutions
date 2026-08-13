@@ -14,6 +14,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/CaPPok/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CaPPok/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -23,4 +24,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CaPPok/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/CaPPok/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
