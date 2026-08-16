@@ -15,10 +15,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/CaPPok/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/CaPPok/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CaPPok/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/CaPPok/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CaPPok/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
