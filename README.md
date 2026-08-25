@@ -19,11 +19,13 @@
 | [1872-stone-game-viii](https://github.com/CaPPok/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/CaPPok/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CaPPok/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CaPPok/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2215-find-the-difference-of-two-arrays](https://github.com/CaPPok/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CaPPok/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CaPPok/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
