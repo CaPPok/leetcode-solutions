@@ -41,6 +41,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/CaPPok/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1872-stone-game-viii](https://github.com/CaPPok/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/CaPPok/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CaPPok/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CaPPok/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
