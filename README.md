@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/CaPPok/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CaPPok/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/CaPPok/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
